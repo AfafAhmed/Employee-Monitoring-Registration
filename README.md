@@ -1,4 +1,4 @@
-# Employee Monitoring Registration (Face Recognition)
+# Employee Monitoring Registration
 
 This is a complete face recognition project with a few clicks the application has the capability to collect
 datasets using a webcam, train itself and do predictions in real-time.
